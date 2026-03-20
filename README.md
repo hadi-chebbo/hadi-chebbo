@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hey, I'm Hadi Chebbo 👋
-### Backend Developer · Laravel Specialist · CS Student
+### Software Developer | Backend Systems • API Development • System Architecture
+
 
 *I build the systems that make the web actually work — clean architecture, secure APIs, and server-side logic that scales.*
 
