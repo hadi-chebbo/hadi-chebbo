@@ -7,9 +7,9 @@ I build the systems that make the web actually work — clean architecture, secu
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 💻 GitHub: [Your GitHub Link]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: www.linkedin.com/in/hadi-chebbo-b00787244
+- 💻 GitHub: https://github.com/hadi-chebbo/hadi-chebbo
+- 📧 Email: chebbohadi5@gmail.com
 
 ---
 
@@ -31,21 +31,21 @@ I don’t just write code that works — I design systems that make sense.
 ## ⚙️ Tech Stack
 
 ### 🧩 Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
-![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
