@@ -8,7 +8,7 @@ I build the systems that make the web actually work — clean architecture, secu
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/hadi-chebbo-b00787244
-- 💻 GitHub: https://github.com/hadi-chebbo/hadi-chebbo
+- 💻 GitHub: https://github.com/hadi-chebbo
 - 📧 Email: chebbohadi5@gmail.com
 
 ---
