@@ -1,103 +1,107 @@
-<div align="center">
-
 # Hey, I'm Hadi Chebbo 👋
-### Software Developer | Backend Systems • API Development • System Architecture
 
+**Software Developer | Backend Systems • API Development • System Architecture**
 
-*I build the systems that make the web actually work — clean architecture, secure APIs, and server-side logic that scales.*
+I build the systems that make the web actually work — clean architecture, secure APIs, and backend logic designed to scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadi-chebbo-b00787244)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadi-chebbo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chebbohadi5@gmail.com)
+---
 
-</div>
+## 🔗 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 💻 GitHub: [Your GitHub Link]
+- 📧 Email: [Your Email]
 
 ---
 
 ## 🧠 What I Do
 
-I'm a Computer Science student specializing in **backend web development** — focused on designing systems that are secure, maintainable, and built to last. My primary stack is the **Laravel ecosystem**, where I've developed production-style applications covering everything from database architecture to REST API design and real-time server-rendered interfaces.
+I'm a Computer Science student specializing in backend web development — focused on designing systems that are secure, maintainable, and built with intention.
 
-I don't just write code that works — I write code that makes sense.
+My core strength lies in the Laravel ecosystem, where I’ve built production-style applications covering:
+
+- Database architecture & relational design  
+- REST API development & authentication systems  
+- Server-side rendering with dynamic interfaces (Livewire)  
+- Clean MVC structure with maintainable code flow  
+
+I don’t just write code that works — I design systems that make sense.
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ Tech Stack
 
-**Backend**
+### 🧩 Backend
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🏨 Hotel Management System
-> A full-stack hotel management platform built with a production-grade mindset.
 
-**What it covers:**
-- Room inventory and availability management
-- Reservation lifecycle handling end-to-end
-- Server-side rendered UI with Livewire for dynamic interactions
-- Clean MVC architecture with controller-based data flow
-- Structured MySQL schema for relational data integrity
+A full-stack hotel management platform built with a production mindset — focused on handling real-world booking logic and system structure.
 
-*Tech: Laravel · Livewire · MySQL · TailwindCSS · MVC*
+#### 🔍 What it covers:
+- Room inventory and availability management  
+- Reservation lifecycle from booking to payment  
+- Server-side rendered UI with Livewire for dynamic interactions  
+- Clean MVC architecture with structured controller flow  
+- Relational database design ensuring data consistency  
+
+#### ⚙️ Engineering Highlights:
+- Designed relational schema for hotels, rooms, and bookings  
+- Implemented availability logic to prevent overlapping reservations  
+- Structured backend for scalability and maintainability  
+- Handled business logic for booking flow and pricing calculations  
+
+#### 🧱 Tech:
+`Laravel` • `Livewire` • `MySQL` • `TailwindCSS` • `MVC`
 
 ---
 
 ## 📚 Computer Science Foundation
 
-Beyond the web stack, I have grounding in the concepts that make me a better engineer:
+Beyond frameworks, I focus on the fundamentals that shape strong engineers:
 
-- **Data Structures** — understanding what's happening under the hood
-- **Computer Networks** — knowing how data actually travels
-- **Computer Architecture** — appreciating what runs beneath the OS
-- **OOP with Java** — language-agnostic design thinking
+- 🧠 **Data Structures** — understanding performance and efficiency  
+- 🌐 **Computer Networks** — how data moves across systems  
+- 💻 **Computer Architecture** — what happens beneath the OS  
+- 🔷 **OOP with Java** — building scalable and reusable designs  
 
 ---
 
 ## 🌱 Currently Focused On
 
-- Designing **scalable Laravel application architectures**
-- Deepening expertise in **secure authentication systems**
-- Building **real-world, production-ready** web systems
-- Leveling up in **backend system design** patterns
+- Designing scalable backend architectures in Laravel  
+- Deepening expertise in authentication & security systems  
+- Building production-ready, real-world applications  
+- Applying design patterns and clean architecture principles  
 
 ---
 
 ## 💬 Philosophy
 
-> *"Backend development is about more than writing queries and routes — it's about designing systems that are trustworthy, maintainable, and built with intention."*
+> Backend development is not just about writing queries and routes —  
+> it’s about designing systems that are reliable, maintainable, and built with intention.
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-**Open to collaborations, internships, and backend-focused opportunities.**
+I’m open to internships, collaborations, and backend-focused opportunities.
 
-*Let's build something solid.*
-
-</div>
-
-<!---
-hadi-chebbo/hadi-chebbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build something solid.
