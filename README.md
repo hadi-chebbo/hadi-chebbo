@@ -1,114 +1,112 @@
-# Hey, I'm Hadi Chebbo 👋
+# Hey, I'm Hadi Chebbo
 
-**Software Developer | Backend Systems • Frontend Development • API Development**
+**Software Engineer | Backend Systems • API Development • Full-Stack Applications**
 
-I build the systems that make the web actually work — and the interfaces people actually use. Clean architecture on the backend, intentional UI on the frontend.
-
----
-
-## 🔗 Connect with Me
-- 💼 LinkedIn: www.linkedin.com/in/hadi-chebbo-b00787244
-- 💻 GitHub: https://github.com/hadi-chebbo
-- 📧 Email: chebbohadi5@gmail.com
+I focus on building reliable backend systems, scalable APIs, and well-structured full-stack applications with strong attention to architecture, performance, and maintainability.
 
 ---
 
-## 🧠 What I Do
+## Connect with Me
 
-I'm a Computer Science student with a strong backend foundation and a growing focus on frontend development — building interfaces that are clean, responsive, and connected to well-designed systems underneath.
-
-My backend roots give me an edge in frontend work: I understand how APIs are structured, how data flows, and how to bridge the gap between server logic and user-facing interfaces.
-
-**On the backend**, I've built production-style applications in Laravel covering:
-- Database architecture & relational design
-- REST API development & authentication systems
-- Server-side rendering with dynamic interfaces (Livewire)
-- Clean MVC structure with maintainable code flow
-
-**On the frontend**, I focus on:
-- Building component-driven UIs with Vue.js and React
-- Crafting responsive layouts with TailwindCSS
-- Writing clean, interactive JavaScript
-- Connecting frontend views to backend APIs seamlessly
+- LinkedIn: www.linkedin.com/in/hadi-chebbo-b00787244  
+- GitHub: https://github.com/hadi-chebbo  
+- Email: chebbohadi5@gmail.com  
 
 ---
 
-## ⚙️ Tech Stack
+## About Me
 
-### 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+I am a Computer Science student and backend-focused software engineer with hands-on experience designing REST APIs, relational database systems, and authentication architectures using Laravel.
 
-### 🧩 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+I enjoy building systems where structure matters — clean database design, maintainable backend logic, and APIs that scale with real-world usage.
 
 ---
 
-## 🚀 Featured Project
+## Core Skills
 
-### 🏨 Hotel Management System
+### Backend Development
+- RESTful API design and architecture  
+- Laravel (MVC, Sanctum, Livewire)  
+- Authentication and Role-Based Access Control (RBAC)  
+- Database design (MySQL, PostgreSQL, relational modeling)  
 
-A full-stack hotel management platform built with a production mindset — covering both the backend reservation engine and the dynamic user-facing interface.
+### Software Engineering
+- Object-Oriented Programming (OOP)  
+- Data Structures and Algorithms  
+- Clean Architecture principles  
+- System design fundamentals  
 
-#### 🎨 Frontend Highlights:
-- Built dynamic, reactive UI components using Livewire for real-time room availability updates
-- Designed responsive layouts with TailwindCSS for a clean booking experience across devices
-- Handled frontend state for multi-step booking flows — from room selection to payment confirmation
-- Integrated Stripe's frontend checkout flow for a seamless, secure payment experience
+### Tools and Workflow
+- Git and GitHub  
+- Jira (Agile / Scrum)  
+- Docker (basic usage)  
+- Postman  
 
-#### ⚙️ Backend Highlights:
-- Designed relational schema for hotels, rooms, reservations, and payments
-- Implemented availability logic to prevent overlapping reservations
-- Integrated Stripe payment gateway — handled checkout sessions, webhook events, and transaction lifecycle
-- Structured backend for scalability and maintainability with clean MVC architecture
-
-#### 🧱 Tech:
-`Laravel` • `Livewire` • `MySQL` • `TailwindCSS` • `Stripe` • `MVC`
-
----
-
-## 📚 Computer Science Foundation
-
-Beyond frameworks, I focus on the fundamentals that shape strong engineers:
-
-- 🧠 **Data Structures** — understanding performance and efficiency
-- 🌐 **Computer Networks** — how data moves across systems
-- 💻 **Computer Architecture** — what happens beneath the OS
-- 🔷 **OOP with Java** — building scalable and reusable designs
+### Frontend (Supportive)
+- HTML, CSS, TailwindCSS  
+- JavaScript (basic to intermediate)  
+- Blade templates, Livewire components  
 
 ---
 
-## 🌱 Currently Focused On
+## Featured Projects
 
-- Building component-driven interfaces with Vue.js
-- Deepening JavaScript knowledge and frontend architecture patterns
-- Connecting well-designed UIs to robust backend APIs
-- Applying clean architecture principles across the full stack
+### Guidely — Backend Team Lead (TechTalks Internship Project)
+
+A collaborative full-stack platform where I led backend development and coordinated system architecture within an Agile Scrum environment.
+
+**Backend:**
+- Led backend development and coordinated architecture decisions, task planning, and code reviews  
+- Designed and implemented scalable REST APIs following clean architecture and maintainable design principles  
+- Built and managed a staging environment using Railway connected to a shared PostgreSQL database (Neon), enabling synchronized backend/frontend development  
+- Implemented automated API tests and improved system reliability through structured validation  
+
+**Engineering & Workflow:**
+- Enforced backend standards through code reviews and consistent API structure  
+- Produced technical documentation including API specs, planning documents, and meeting notes  
+- Managed Jira board, sprint planning, and Agile workflow execution with the team  
+
+**Tech Stack:** Laravel, PostgreSQL, Railway, Neon, REST APIs, Jira  
 
 ---
 
-## 💬 Philosophy
+### Hotel Management System
 
-> Great software lives at the intersection of solid backend logic and intuitive frontend experience —  
-> I build both sides with intention, so nothing gets lost in between.
+A full-stack reservation system focused on backend architecture and real-world booking workflows.
+
+**Backend:**
+- Designed relational database schema for rooms, reservations, and payments  
+- Implemented booking logic with availability validation and conflict prevention  
+- Integrated Stripe payment processing with secure webhook handling  
+- Structured backend using clean MVC architecture for scalability  
+
+**Frontend:**
+- Built responsive UI using Blade, TailwindCSS, and Livewire  
+- Implemented dynamic booking flows with real-time updates  
+
+**Tech Stack:** Laravel, MySQL, Livewire, Blade, TailwindCSS, Stripe  
 
 ---
 
-## 🤝 Let's Connect
+## Computer Science Foundations
 
-I'm open to internships, collaborations, and frontend or full-stack opportunities.
+- Data Structures and Algorithms  
+- Computer Networks  
+- Operating Systems basics  
+- Computer Architecture  
+- Java OOP and Design Patterns  
 
-Let's build something solid.
+---
+
+## Currently Learning
+
+- Java Multithreading and Concurrency  
+- System design fundamentals  
+- Advanced backend architecture patterns  
+- Data Structures and Algorithms problem solving  
+
+---
+
+## Focus
+
+I focus on how systems are designed, how data flows, and how backend logic supports scalable and maintainable applications.
