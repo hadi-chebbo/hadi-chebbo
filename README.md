@@ -31,7 +31,7 @@ I'm particularly interested in **backend engineering, distributed systems, syste
 ## Experience
 
 ### Software Engineering Trainee — Forward MENA
-**Jun 2026 – Present**
+**Jun 2026 – Sep 2026**
 
 Worked on a collaborative full-stack restaurant discovery platform as part of the OnRamp program.
 
